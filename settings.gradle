@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CustomTesting"
 include ':app'
+include ':PrintToast'
